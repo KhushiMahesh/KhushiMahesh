@@ -27,17 +27,6 @@ I love building AI-driven solutions to solve real-world problems and continuousl
 
 ---
 
-### 🤖 AI / ML
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-</p>
-
----
-
 ### 📊 Big Data
 
 <p align="center">
